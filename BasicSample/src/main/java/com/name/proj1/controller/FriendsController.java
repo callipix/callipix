@@ -5,6 +5,7 @@ import java.util.List;
 
 import javax.annotation.PostConstruct;
 
+import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.DeleteMapping;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
@@ -18,6 +19,7 @@ import com.name.proj1.vo.Friend;
 
 import lombok.extern.slf4j.Slf4j;
 @Slf4j
+@CrossOrigin	// 검색 & 사용법
 @RestController
 @RequestMapping("/api")
 public class FriendsController {
@@ -85,10 +87,10 @@ public class FriendsController {
 		return "success";
 	}
 	// friend 데이터 삭제하기(delete)
-	@DeleteMapping("/friends")
-	public String friendDel(@RequestBody Friend delFriend) {
+	@DeleteMapping("/friends/{name}")
+	public String friendDel(@PathVariable String name) {
 		for(Friend friend : listFriend) {
-			if(friend.getName().equals(delFriend.getName())) {
+			if(friend.getName().equals(name)) {
 				listFriend.remove(friend);
 				log.info("delete success");
 				break;

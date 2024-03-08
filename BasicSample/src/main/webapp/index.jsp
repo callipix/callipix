@@ -40,13 +40,12 @@
                            let friend = frdList[i];
                            // spring el문법과 js template string 문법이 정확히 일치하는 문제
                            // jsp 안에서 쓸때만 javascript변수에만  \를 붙여준당. 
-                           tblStr += `
-                                 <tr>
-                                   <td>\${i}</td> 
-                                   <td>\${friend.name}</td> 
-                                   <td>\${friend.age}</td> 
-                                   <td>\${friend.alias}</td> 
-                                </tr>   
+                           tblStr += `<tr>
+	                                   <td>\${i}</td> 
+	                                   <td>\${friend.name}</td> 
+	                                   <td>\${friend.age}</td> 
+	                                   <td>\${friend.alias}</td> 
+	                             	  </tr>   
                            `;
                        }
                        tblStr += "</table>";
