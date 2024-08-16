@@ -3,7 +3,7 @@
 </div>
 
 <div align="center"> 
-  <h2 style="color: #282d33;"> 어서오세요!! </h2>  
+  <h2 style="color: #282d33;"> 어서오세요</h2>  
   <div style="font-weight: 700; font-size: 15px; color: #282d33;">
     개발자가 되고 싶은 취업준비생 이재훈입니다.
   </div>
@@ -41,12 +41,14 @@
 <h2 style="color: #282d33;"> 🧑‍💻 Contact me </h2>
 
 <div align="center">
-  <a href="https://github.com/callipix/nunettine">    
-  <img src="https://img.shields.io/badge/Portfolio-F44336?style=flat&logo=BookStack&logoColor=white" />
+  <a href="https://github.com/callipix/nunettine">
+  <img src="https://img.shields.io/badge/Team Project : nunettine -F44336?style=flat&logo=BookStack&logoColor=white" />
   </a>
-  <a href="https://github.com/callipix/myApp">    
-  <img src="https://img.shields.io/badge/Portfolio-F44336?style=flat&logo=BookStack&logoColor=white" />
+  <br>
+  <a href="https://github.com/callipix/myApp">
+  <img src="https://img.shields.io/badge/Personal Mini Project -F44336?style=flat&logo=BookStack&logoColor=white" />
   </a>
+  <br>
   <img src="https://img.shields.io/badge/Gmail-30B980?style=flat&logo=Gmail&logoColor=white" />
 </div>
 
