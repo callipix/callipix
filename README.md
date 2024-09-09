@@ -25,7 +25,7 @@
 
 <div>
   <h4>Database</h4>
-  <img src="https://img.shields.io/badge/Oracle SQL 11g-F80000?style=Plastic&logo=Oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle 11g-F80000?style=Plastic&logo=Oracle&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL 8.0.38-4479A1?style=Plastic&logo=MySQL&logoColor=white" />
   
 <div>
