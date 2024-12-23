@@ -7,12 +7,6 @@
   <div style="font-weight: 700; font-size: 15px; color: #282d33;">
     개발자가 되고 싶은 취업준비생 이재훈입니다.
   </div>
-  <div style="font-weight: 700; font-size: 15px; color: #282d33;">
-    과정에 대해 생각하는 것을 좋아합니다.
-  </div>
-  <div style="font-weight: 700; font-size: 15px; color: #282d33;">
-    꼭 취업하고 싶어요.
-  </div>
 </div>
 
 <div align: "center">
