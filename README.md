@@ -2,10 +2,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&text=Hello!!&animation=fadeIn&fontColor=000000&fontSize=40" />
 </div>
 
-<div align="center"> 
-  <h2 style="color: #282d33;"> 어서오세요</h2>  
-  <div style="font-weight: 700; font-size: 15px; color: #282d33;">
-    개발자가 되고 싶은 취업준비생 이재훈입니다.
+ <div align="center"> 
+<!--  <h2 style="color: #282d33;"> 어서오세요</h2>  -->
+<!--  <div style="font-weight: 700; font-size: 15px; color: #282d33;"> -->
+<!--  개발자가 되고 싶은 취업준비생 이재훈입니다. -->
   </div>
 </div>
 
